@@ -1,6 +1,6 @@
 # Mashed potatoes
 
-_ Note: we eat a fair amount of potatoes in Sweden. Boiled, mashed, fried, oven-baked. Cold, hot._
+_Note: we eat a fair amount of potatoes in Sweden. Boiled, mashed, fried, oven-baked. Cold, hot._
 
 ## Ingredients:
 - Flour:y potatoes (~500 grams) _[Swedish: Mjölig potatis]_
