@@ -1,5 +1,9 @@
 # Breakfast
 
+- [Fil och flingor](#filmjolk) — sour milk and ceral.
+- [Mackor](#sandwiches) — sandwiches.
+- [Havregrynsgröt](./Oatmeal-porridge) — oatmeal porridge.
+
 #### Filmjölk
 
 - Filmjölk — a specific kind of sour milk, kind of an inbetween of yogurt and sour cream, hard to describe.

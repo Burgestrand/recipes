@@ -15,3 +15,28 @@ everything by heart, so make sure to sample often.
 ## Recipes with Meatballs
 
 - [Meatballs and Macaroni](./Meatballs-and-Macaroni)
+- (soon) Meatballs and Mashed potatoes
+
+## Mellanmål
+
+## Fika
+
+That's right. Fika recipes.
+
+## Coming up
+
+- Makaroner med falukorv
+- Spagetti med köttfärssås
+- Svensson-tacos
+- Currykyckling
+- Strömming
+- Rårakor och raggmunk
+- Pannkakor
+- Blodpudding
+- Ugnspannkaka
+- Pytt i panna
+- Biff rydberg
+- Biff lindström
+- Sockerkaka
+- Chokladbollar
+- Kroppkakor
