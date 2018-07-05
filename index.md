@@ -15,6 +15,7 @@ everything by heart, so make sure to sample often.
 ## Easy-to-make
 
 - [Makaroner och falukorv](./Macaroni-and-falukorv)
+- [Meatballs and Macaroni](./Meatballs-and-Macaroni)
 
 ## Recipes with Meatballs
 
