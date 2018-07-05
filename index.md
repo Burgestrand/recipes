@@ -12,6 +12,10 @@ everything by heart, so make sure to sample often.
 - [Meatballs](./Meatballs) — the classic.
 - [Mashed potatoes](./Mashed-potatoes)
 
+## Easy-to-make
+
+- [Makaroner och falukorv](./Macaroni-and-falukorv)
+
 ## Recipes with Meatballs
 
 - [Meatballs and Macaroni](./Meatballs-and-Macaroni)
