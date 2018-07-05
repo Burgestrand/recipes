@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Meatballs & Macaroni
 
 _Note: Base food of every household. Typically the first meal you learn to cook yourself, cheap way to eat as a student, quick way to make food for those days you don't feel like making any food._

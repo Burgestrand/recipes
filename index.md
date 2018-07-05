@@ -8,6 +8,7 @@ everything by heart, so make sure to sample often.
 ## Essentials
 
 - [Pantry](./Pantry) — you should have most of these at home.
+- [Breakfast](./Breakfast) — Swedish breakfast? You got it!
 - [Meatballs](./Meatballs) — the classic.
 - [Mashed potatoes](./Mashed-potatoes)
 
