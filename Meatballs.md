@@ -1,4 +1,4 @@
-# Meatballs!
+# Meatballs
 
 _Note: there are about as many standard recipes as there are families, so here's mine:_
 
