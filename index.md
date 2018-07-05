@@ -28,9 +28,11 @@ everything by heart, so make sure to sample often.
 
 That's right. Fika recipes.
 
+- Chokladbollar
+- Sockerkaka
+
 ## Coming up
 
-- Makaroner med falukorv
 - Spagetti med köttfärssås
 - Svensson-tacos
 - Currykyckling
@@ -42,6 +44,4 @@ That's right. Fika recipes.
 - Pytt i panna
 - Biff rydberg
 - Biff lindström
-- Sockerkaka
-- Chokladbollar
 - Kroppkakor
