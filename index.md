@@ -15,7 +15,7 @@ everything by heart, so make sure to sample often.
 ## Recipes with Meatballs
 
 - [Meatballs and Macaroni](./Meatballs-and-Macaroni)
-- (soon) Meatballs and Mashed potatoes
+- [Meatballs and Mashed potatoes](./Meatballs-and-Mashed-potatoes)
 
 ## Mellanmål
 
